@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Acaroji/travel-site#readme",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "normalize.css": "^8.0.1",
     "path": "^0.12.7"
   },
